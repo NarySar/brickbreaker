@@ -53,6 +53,7 @@ where the url should point to your own github repository page where you want to 
   
 ## Publications ##
 ### Citation: ###
+https://github.com/NarySar/cs460student based game off assignment 4
 ```
 
 
