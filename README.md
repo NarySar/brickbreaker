@@ -34,7 +34,7 @@ The game keeps track of the level, player score and lives left.
 
 ### Deploy
 
-1. Add `"homepage": "https://lorifranke.github.io/FiberStars/"` to `package.json`
+1. Add `"homepage": "https://narysar.github.io/FiberStars/"` to `package.json`
 where the url should point to your own github repository page where you want to deploy the tool.
 2. `npm run deploy`
 
